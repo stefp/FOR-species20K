@@ -1,8 +1,8 @@
 
-![3DForEcoTech-logo-description](https://user-images.githubusercontent.com/5663984/174446150-32e31872-2003-4af9-95d4-a1abfca0b744.png)
+# Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR-species20K dataset 🌳🌲💥🤖
+Repository for the study by [Puliti et al. (2025)](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14503) to benchmark tree species classification using proximally sensed laser scanning data (TLS, MLS, ULS). This work is part of the COST action 3DForEcoTech [3DForEcoTech](https://3dforecotech.eu/) and co-funded by [SmartForest](https://smartforest.no/). To cite this work use:
 
-# Sensor-agnostic tree species classification using proximal laser scanning (TLS, MLS, ULS) and CNNs 🌳🌲💥🤖
-Repository for the work related to the tree species classification using proximally sensed laser scanning data (TLS, MLS, ULS). This work is part of the COST action 3DForEcoTech [3DForEcoTech](https://3dforecotech.eu/) and co-funded by [SmartForest](https://smartforest.no/)
+_Puliti, S., Lines, E. R., Müllerová, J., Frey, J., Schindler, Z., Straker, A., Allen, M. J., Winiwarter, L., Rehush, N., Hristova, H., Murray, B., Calders, K., Coops, N., Höfle, B., Irwin, L., Junttila, S., Krůček, M., Krok, G., Král, K., … Astrup, R. (2025). Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR-species20K dataset. Methods in Ecology and Evolution, 00, 1–18. https://doi.org/10.1111/2041-210X.14503_
 
 ![beech_spruce_pine](https://user-images.githubusercontent.com/5663984/205514849-14d77df2-0441-4caa-b230-6fdbdaad4ddc.png)
 
@@ -59,6 +59,10 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 # Confusion matrix of top performing method 📈
 
 ![figure_5](https://github.com/user-attachments/assets/fe78e4aa-f8b5-4ec5-89d5-76cfc4016c92)
+
+# Want to enter the leaderboard? 🏆 Benchmark your model against the withheld test data
+Any user can benchamrk their own model against the withheld test data in [FOR-species20K Codabench page](https://www.codabench.org/competitions/3667/). Give it a try, it works like a charm 🥳
+
 
 
 
