@@ -18,7 +18,7 @@ Below you can find some metadata regarding the available datasets.
 | wieser_TLS  | 264 | 12 | TLS | RIEGL VZ-400 | 15 scans per ha | manual | temperate | 14.7073 | 48.6638 |
 | ...  | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
-![Capture](https://user-images.githubusercontent.com/5663984/205518571-e7d85b0d-79ae-4dae-98da-99a1c4d7ff79.PNG)
+![figure_1](https://github.com/user-attachments/assets/e248bafb-2f53-40bb-ac30-ce75ff5a1fb6)
 
 
 ## Trees 
@@ -32,13 +32,7 @@ Tree metadata can be found in the tree_metadata_training_publish.csv. Each row r
 the "tree_H" variable is simply the difference between the top and bottom z value for each tree and should be used only to get a rough understanding of tree size, however keep in mind that this does NOT necessarily correspond to the real tree height.
 
 ### Tree distribution by tree species (33 tree species with more than 50 trees)
-![species](https://user-images.githubusercontent.com/5663984/205514818-7af03617-e358-44e0-9f40-4c555d6bf3c5.png)
-
-### Tree distribution by genus
-![genus](https://user-images.githubusercontent.com/5663984/205514824-9c84acfb-e907-4bc7-8b10-ccff19bad82a.png)
-
-### Tree height (m) distribution by tree species
-![species_size](https://user-images.githubusercontent.com/5663984/205514870-8d1ca47f-9fdc-4a70-8a4f-cf197653a58c.png)
+![figure_3](https://github.com/user-attachments/assets/3c88db2d-e0b2-4324-81f1-3e4a33f3a156)
 
 # Data science competition (Nov 2022 - May 2023) 🏎️ 
 The data science competition will run from Jan 2023 to Apr/May 2023. Each contributor will be able to make a maximum of 3 submissions.
