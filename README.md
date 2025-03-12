@@ -11,6 +11,8 @@ The overall aim consists of developing a **benchmark dataset** for **developing*
 
 # Available data sources (approx. 20K trees 🤯)
 ## Datasets
+The FOR-species20K data can be downloaded from the [Zenodo repository](https://zenodo.org/records/13255198)
+
 Below you can find some metadata regarding the available datasets.
 
 | dataset_name  | n_trees | n_species | data_type | Sensor | acquisition | annotation_quality | forest_type | x | y |
